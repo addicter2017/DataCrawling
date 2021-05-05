@@ -1,0 +1,14 @@
+view_name: vacancies
+view_display_id: block_1
+view_args:
+view_path: /node/594
+view_base_path: vacancies
+view_dom_id: f1d3df4492bf6d39e88ebaa1345ddb6dac4f51052967c0286fa5d0e08222c292
+pager_element: 0
+dep: All
+type: All
+page: 1
+_drupal_ajax: 1
+ajax_page_state[theme]: kise
+ajax_page_state[theme_token]:
+ajax_page_state[libraries]: berzelius_core/berzelius-clientside-validation,chosen/drupal.chosen,chosen_lib/chosen.css,clientside_validation_jquery/cv.jquery.ckeditor,clientside_validation_jquery/cv.jquery.ife,clientside_validation_jquery/cv.jquery.validate,core/html5shiv,eu_cookie_compliance/eu_cookie_compliance,ki_group/toolbar,kise/kise_global,open_readspeaker/basic,open_readspeaker/post_mode,pdb/vue-search-block/footer,qbank_dam/qbank_resize,system/base,theorell/fonts,theorell/global,theorell/sanitize,theorell/slideshow,views/views.ajax,views/views.module

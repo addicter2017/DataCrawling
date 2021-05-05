@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/8/24 1:43
 # @Author  : Can Zhang
-# @FileName: Request+正则爬取Chalmers.py
+# @FileName: crawing_main_CTH.py
 # @Software: PyCharm
 import requests
 from requests.exceptions import RequestException
